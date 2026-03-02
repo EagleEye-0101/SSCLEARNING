@@ -11,3 +11,7 @@ print("Enrollment No. : ",ennrollno);
 print("12th Percentage : ",grade12);
 print("Name's First Letter: ",nameone);
 print("Do you understand? : ",ans);
+
+// for using variables inside the samme string 
+var a = 20;
+print("I have \(a) apples.")
